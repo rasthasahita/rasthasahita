@@ -1,7 +1,7 @@
 - 👋 Nama : Rastha Sahita
 - 👀 Asal : Bantul, Yogyakarta
-- 🌱 Universitas Gadjah Mada
-- 💞️ Fakultas : MIPA
+- 💞️ Universitas Gadjah Mada
+- 🌱 Fakultas : MIPA
 - 📫 Prodi : Geofisika
 - 👀 NIM : 20/459232/PA/19893
 
